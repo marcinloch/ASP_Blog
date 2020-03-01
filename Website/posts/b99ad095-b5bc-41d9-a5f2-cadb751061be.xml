@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<post>
+  <title>HEJ</title>
+  <slug>my-new-post</slug>
+  <author>demo</author>
+  <pubDate>2020-03-01 12:24:08</pubDate>
+  <lastModified>2020-03-01 12:24:37</lastModified>
+  <excerpt>witaj świecie</excerpt>
+  <content>&lt;b&gt;asdasdasda&lt;u&gt;asdasdasd&lt;/u&gt;&lt;/b&gt;</content>
+  <ispublished>true</ispublished>
+  <categories>
+    <category>Hello World</category>
+  </categories>
+  <comments></comments>
+</post>
